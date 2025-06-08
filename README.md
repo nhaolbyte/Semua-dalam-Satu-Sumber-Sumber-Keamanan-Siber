@@ -11,12 +11,12 @@ Daftar Sumber Daya Keamanan Siber dengan beberapa Sub-Set Keamanan Siber yang be
 
 
  
-# Vision  
-A common updated repo for all, which  acts as a pyramid for various sub-sets, walkthroughs, starting points, contents and other new or demanding resources in industry. **Consists of all free and publicly available resources**
+#Visi
+Repo umum yang diperbarui untuk semua, yang berfungsi sebagai piramida untuk berbagai sub-set, panduan, titik awal, konten, dan sumber daya baru atau yang dibutuhkan lainnya dalam industri. **Terdiri dari semua sumber daya gratis dan tersedia untuk umum**
 
 ![Thomas-Edison-quote](https://user-images.githubusercontent.com/71017420/188928789-e8264de2-88c3-4fd6-ae4c-c58bc4f516ad.png)
 
-**We are here to help beginners for initializing their access in industry!!**
+**Kami hadir untuk membantu para pemula dalam menginisialisasi akses mereka di industri!!**
 
 # Index
 * [Important-Key-Points](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources#some-important-key-points-in-industry)
@@ -30,49 +30,48 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * [Exploit-Development](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/blob/main/README.md#exploit-development)
 
 
-#### **Respect to  original creators who worked really hard for creating Aweasome Resources for our Industry -**
+#### **Penghormatan kepada kreator asli yang bekerja keras untuk menciptakan Sumber Daya yang Luar Biasa bagi Industri kita -**
 
 ![respect](https://user-images.githubusercontent.com/71017420/187759532-30ab6b9b-416a-475c-9915-26f71c91c0ca.jpeg)
 
 
 
-## Some important key points in industry
+## Beberapa poin penting dalam industri
 
-  * ###### Programming is the key element of everything and you must know, atleast understand some programs first.
-  * ###### CyberSecurity is not difficult at all, just a misconception.
-  * ###### Computer Networking is soul of IT.
-  * ######  *Curiosity* makes individual successful. 
-  * ###### Skill matters not degrees.
+* ###### Pemrograman adalah elemen kunci dari segalanya dan Anda harus tahu, setidaknya pahami beberapa program terlebih dahulu.
+* ###### Keamanan Siber sama sekali tidak sulit, hanya kesalahpahaman.
+* ###### Jaringan Komputer adalah jiwa dari TI.
+* ###### *Rasa ingin tahu* membuat individu sukses. 
+* ###### Keterampilan penting, bukan gelar.
  
 ![giphy](https://user-images.githubusercontent.com/71017420/188283253-1524eba1-f473-48e2-82db-3c90670cc0c6.gif)
 
 
-# Prerequisites for CyberSecurity
+# Prasyarat untuk Keamanan Siber
 
 ![download](https://user-images.githubusercontent.com/71017420/188929763-d85e1a4c-0df8-426d-bb80-27ca41245dcc.jpg)
 
 
 
-## ***OffSec says you must try harder!!! - Abosolutely NOT, "YOU MUST TRY SMARTER"***
+## ***OffSec mengatakan Anda harus berusaha lebih keras!!! - Sama sekali TIDAK, "ANDA HARUS BERUSAHA LEBIH CERDAS"***
 
+###### yah, Anda harus tahu hal-hal yang disebutkan di bawah ini - 
+1. Linux, baris perintah windows (cmd - powershell) dan sistem file - **Youtube penuh dengan keduanya :)**
+2. Pemrograman - Mulailah dengan python, Anda akan mendapatkan idenya di masa mendatang - **FreeCodeCamp (Youtube)**
+3. Dasar-dasar kriptografi - Saya akan merekomendasikan Anda untuk melakukan ini - **Jawaban yang sama youtube**.
+4. Keterampilan teknis - contoh memori, cpu, bios, berurusan dengan komponen perangkat keras serta operasi teknis dasar - ***Internet adalah teman Anda:)***
+5. Jaringan Komputer - *Sesuatu yang harus Anda ketahui* - **Jawaban yang sama lagi, Youtube**.
+6. Riset atau Googling - *Sangat Penting dalam Keamanan Siber*.
 
-###### well, you should know these things mentioned below - 
-1. Linux, windows command line(cmd - powershell) and file system - **Youtube is full of both :)**
-2. Programming - Start with python then, you'll get the idea in future -  **FreeCodeCamp(Youtube)**
-3. Cryptography basics - I will recommend you to do this -  **Same answer youtube**.
-4. Technical skills - example memory, cpu, bios, dealing with harware components aswell as basic technical operations - ***Internet is your friend:)***
-5. Computer Networking - *Something you must know* - **Again same answer, it's Youtube**.
-6. Research or Googling - *Very Important in CyberSecurity*.
-
-# *Our suggestions on Programming Languages*
+# *Saran kami tentang Bahasa Pemrograman*
 
 ![images](https://user-images.githubusercontent.com/71017420/188496502-581d07c7-3e93-4fb2-b63c-12ace1a6e5f8.jpg)
 
 
-## Beginners
-* Python - According to us, we'll suggest to learn Python first
+## Pemula
+* Python - Menurut kami, kami sarankan untuk mempelajari Python terlebih dahulu
 
-## Intermediate - in Corporate Networks
+## Menengah - di Jaringan Perusahaan
 
 * Python
 * Bash
@@ -83,32 +82,32 @@ A common updated repo for all, which  acts as a pyramid for various sub-sets, wa
 * PHP (basics) - Web related
 * Powershell - Some understanding is **Good**
 
-## Anyone who's addicted to CyberSecurity :computer: :electric_plug: - 
+## Siapa pun yang kecanduan CyberSecurity :computer: :electric_plug: - 
 
-* Python (Recommended to all)
-* SQL (Recommended to all)
-* C Recommended to all
-* Bash (Recommended to all)
-* Csharp (Recommended to offensive or Red Team ops)
-* C++ (MOSTLY recommended to Red Team Ops, malware developers or Researchers)
-* Assembly - (Mostly to Red Team Ops, Exploit Developers and Reverse Engineers)
-* Ruby ( Interest Based)
-* Perl (Interest Based)
-* Go (Interest Based)
-* JavaScript (basic) - Web-Apps Pentesters
-* Nim - Interest based or Red Team Ops
+* Python (Direkomendasikan untuk semua)
+* SQL (Direkomendasikan untuk semua)
+* C Direkomendasikan untuk semua
+* Bash (Direkomendasikan untuk semua)
+* Csharp (Direkomendasikan untuk Ops ofensif atau Red Team)
+* C++ (PALING direkomendasikan untuk Ops Red Team, pengembang malware atau Peneliti)
+* Assembly - (Paling banyak untuk Ops Red Team, Pengembang Exploit dan Reverse Engineer)
+* Ruby (Berdasarkan Minat)
+* Perl (Berdasarkan Minat)
+* Go (Berdasarkan Minat)
+* JavaScript (dasar) - Pentester Aplikasi Web
+* Nim - Berbasis Minat atau Red Team Ops
 
-* Powershell - Recommended to all
-* PHP (basic) - Web-Apps Pentesters
-* nodejs ( Recommended to WebApps Pentesters ....) - Nowdays, Corporates started moving towards nodejs rather than PHP
-* Lua ( Interest Based......)
-* Java (Mostly to Android Application Pentesters)
-* Some Basic knowledge of visual basic, Powershell scripting (MOSTLY Red Team Ops) - Basically Windows based languages [***OPTIONAL, But you should be good in googling then it's optional for you. Sometimes we just need to ready our things on research basis***]
+* Powershell - Direkomendasikan untuk semua
+* PHP (dasar) - Pentester Aplikasi Web
+* nodejs (Direkomendasikan untuk Pentester Aplikasi Web ....) - Saat ini, Perusahaan mulai beralih ke nodejs daripada PHP
+* Lua (Minat Berbasis......)
+* Java (Kebanyakan untuk Pentester Aplikasi Android)
+* Beberapa pengetahuan dasar tentang visual basic, skrip Powershell (KEBANYAKAN Red Team Ops) - Pada dasarnya bahasa berbasis Windows [***OPSIONAL, Tetapi Anda harus pandai mencari di Google, maka itu opsional untuk Anda. Terkadang kita hanya perlu menyiapkan hal-hal kita berdasarkan penelitian***]
 
 
     ![image](https://user-images.githubusercontent.com/71017420/188282836-e1017b37-d11d-46c8-9a81-b0788e15c51c.jpg)
 
-# *Common CyberSecurity Resources*
+# *Sumber Daya Keamanan Siber Umum*
 
 
   ![matrix](https://github.com/vatsalgupta67/All-In-One-CyberSecurity-Resources/assets/71017420/a5b62bd5-ec49-4410-8249-725de59c069e)
